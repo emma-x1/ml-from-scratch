@@ -1,4 +1,4 @@
-# neural-network
+# autograd-engine
 
 Based on Andrej Karpathy's Micrograd tutorial
 
