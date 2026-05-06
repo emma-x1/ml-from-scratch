@@ -1,8 +1,8 @@
-# Under construction - notebooks for learning ML from scratch
+# Notebooks for learning ML from scratch
 
 Credit goes to Neel Nanda's GPT 2 from scratch, and Andrej Karpathy's Micrograd
 
-# Originally: autograd-engine
+## Originally: autograd-engine
 
 Based on Andrej Karpathy's Micrograd tutorial
 
